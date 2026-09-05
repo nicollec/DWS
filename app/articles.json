@@ -10,6 +10,9 @@
     "credit": "Mary Wollstonecraft, portrait c. 1797. Source: Wikipedia.",
     "pages": [
       [
+        "[[figure:0]]"
+      ],
+      [
         "Few days back I wrote about an AI ad selling women the oldest lie in a new little jar: that our bodies are unfinished until a man can look at them and approve.",
         "A product for bigger breasts. A young woman made insecure, then made beautiful, then made lovable. Her boyfriend smiling because the problem has been fixed. And of course I was raging and thinking about Mary Wollstonecraft.",
         "Because in 1792, two hundred and thirty-four years before our phones learned exactly which insecurity to serve us before breakfast, she was already writing about this. Not the tit patches. There were probably less of those to buy, though I wouldn’t be surprised if women didn’t use some home made plant applications for that purpose. But the whole societal machinery underneath this topic."
@@ -44,11 +47,13 @@
       ],
       [
         "Her Vindication of the Rights of Men came out in 1790. It was one of the first serious replies to Burke. At first it was anonymous. But the second edition came out with her name attached. She was thirty-one and entered the political conversation as a woman that refused to be decorative in it.",
-        "Two years later she wrote the book that made the world remember her, badly at first and then, much later, correctly. A Vindication of the Rights of Woman.",
-        "Title page of the 1792 American edition of Mary Wollstonecraft’s A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects. The facing page contains an inscription by women’s suffragist Susan B. Anthony."
+        "Two years later she wrote the book that made the world remember her, badly at first and then, much later, correctly. A Vindication of the Rights of Woman."
       ],
       [
-        "Library of Congress Rare Book and Special Collections Division Washington, D.C. 20540 USA The title sounds almost polite now. It was savage then. People were outraged. Mary’s argument was not “please let women have a little more freedom when convenient”, but: you have built an entire civilization on raising half the population to be stupid on purpose, and then you use their manufactured weakness as proof that they should remain subordinate.",
+        "[[figure:1]]"
+      ],
+      [
+        "The title sounds almost polite now. It was savage then. People were outraged. Mary’s argument was not “please let women have a little more freedom when convenient”, but: you have built an entire civilization on raising half the population to be stupid on purpose, and then you use their manufactured weakness as proof that they should remain subordinate.",
         "“TO M. TALLEYRAND-PERIGORD LATE BISHOP OF AUTUN Sir, Having read with great pleasure a pamphlet* which you have lately published. I dedicate this volume to you; to induce you to reconsider the subject, and maturely weigh what I have advanced respecting the rights of woman and national education: and I call with the firm tone of humanity;* for my arguments, Sir, are dictated by a disinterested spirit—I plead for my sex—not for myself. Independence I have long considered as the grand blessing of life, the basis of every virtue—and independence I will ever secure by contracting my wants, though I were to live on a barren heath."
       ],
       [
@@ -87,9 +92,13 @@
       ],
       [
         "So far from thinking that the primitive inhabitants of the world lived in a southern climate where Paradise spontaneously arose, I am led to",
-        "infer, from various circumstances, that the first dwelling of man happened to be a spot like this which led him to adore a sun so seldom seen; for this worship, which probably preceded that of demons or demigods, certainly never began in a southern climate, where the continual presence of the sun prevented its being considered as a good; or rather the want of it never being felt, this glorious luminary would carelessly have diffused its blessings without being hailed as a benefactor. Man must therefore have been placed in the north, to tempt him to run after the sun, in order that the different parts of the earth might be peopled. Nor do I wonder that hordes of barbarians always poured out of these regions to seek for milder climes, when nothing like cultivation attached them to the soil[..]” You can read this book for free online Then she met William Godwin again."
+        "infer, from various circumstances, that the first dwelling of man happened to be a spot like this which led him to adore a sun so seldom seen; for this worship, which probably preceded that of demons or demigods, certainly never began in a southern climate, where the continual presence of the sun prevented its being considered as a good; or rather the want of it never being felt, this glorious luminary would carelessly have diffused its blessings without being hailed as a benefactor. Man must therefore have been placed in the north, to tempt him to run after the sun, in order that the different parts of the earth might be peopled. Nor do I wonder that hordes of barbarians always poured out of these regions to seek for milder climes, when nothing like cultivation attached them to the soil[..]”"
       ],
       [
+        "[[figure:2]]"
+      ],
+      [
+        "You can read this book for free online Then she met William Godwin again.",
         "Godwin was a philosopher too. He had initially not liked her much. Which is a really good beginning for a relationship between two people who both have ideas and intend to use them.",
         "They became lovers. They lived in separate adjoining houses for a while, keeping their independence, sending notes to each other [Ideal, I KNOW!!!].",
         "They only married when Mary became pregnant again, partly to protect the legal status of their child.",
@@ -107,7 +116,21 @@
         "More than two hundred years passed and the pitch is still the same for women living in a patriarchal society. Mary called it all the way back then, and we are still trying to catch up."
       ]
     ],
-    "sources": "Mary Wollstonecraft, A Vindication of the Rights of Woman (1792); A Vindication of the Rights of Men (1790); Letters Written during a Short Residence in Sweden, Norway, and Denmark (1796); Stanford Encyclopedia of Philosophy, “Mary Wollstonecraft”; Benjamin Colbert, “Mary Wollstonecraft,” British Travel Writing; Barbara Taylor, Mary Wollstonecraft: Philosophy, Passion, and Politics (2020); Janet Todd, Mary Wollstonecraft: A Revolutionary Life (2000)."
+    "sources": "Mary Wollstonecraft, A Vindication of the Rights of Woman (1792); A Vindication of the Rights of Men (1790); Letters Written during a Short Residence in Sweden, Norway, and Denmark (1796); Stanford Encyclopedia of Philosophy, “Mary Wollstonecraft”; Benjamin Colbert, “Mary Wollstonecraft,” British Travel Writing; Barbara Taylor, Mary Wollstonecraft: Philosophy, Passion, and Politics (2020); Janet Todd, Mary Wollstonecraft: A Revolutionary Life (2000).",
+    "figures": [
+      {
+        "src": "/archive/mary-wollstonecraft-X24.jpg",
+        "caption": "Mary Wollstonecraft, portrait c. 1797. Source: Wikipedia."
+      },
+      {
+        "src": "/archive/mary-wollstonecraft-X45.png",
+        "caption": "Title page of the 1792 American edition of Mary Wollstonecraft’s A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects. The facing page contains an inscription by women’s suffragist Susan B. Anthony. Library of Congress Rare Book and Special Collections Division Washington, D.C. 20540 USA"
+      },
+      {
+        "src": "/archive/mary-wollstonecraft-X54.jpg",
+        "caption": "Mary Wollstonecraft, Letters written in Sweden, Norway, and Denmark. Oxford World’s Classics. Book cover reproduced in the original essay."
+      }
+    ]
   },
   {
     "slug": "olympe-de-gouges",
@@ -125,68 +148,84 @@
         "She was married off at sixteen to a man much older than herself. Her husband died and she refused to carry his name into the future. She took her mother's middle name, invented an aristocratic particle no one gave her, renamed herself Olympe de Gouges, and moved to Paris to become a playwright. Now you may not be impressed with this, but remember that a woman in eighteenth-century France existed legally as a derivative noun: first *fille de*, then *femme de*, then *veuve de*. Daughter of, wife of, widow of."
       ],
       [
-        "She was always someone's grammatical appendage. Olympe de Gouges decided she was to be a subject. She didn't even ask permission.",
-        "Portrait of Olympe de Gouges - Wikimedia She didn’t write well, technically. Her French was Occitan-infected, grammatically non-standard. She dictated most of her texts because writing by hand was difficult. The Comédie Française, the most prestigious theatre in France, was controlled by a small group of men who had run it as a private fiefdom since the 1680s. In the 200 years they’d been in operation, they had accepted 2,627 plays into their repertory. Seventy-seven were by women.",
+        "She was always someone's grammatical appendage. Olympe de Gouges decided she was to be a subject. She didn't even ask permission."
+      ],
+      [
+        "[[figure:0]]"
+      ],
+      [
+        "She didn’t write well, technically. Her French was Occitan-infected, grammatically non-standard. She dictated most of her texts because writing by hand was difficult. The Comédie Française, the most prestigious theatre in France, was controlled by a small group of men who had run it as a private fiefdom since the 1680s. In the 200 years they’d been in operation, they had accepted 2,627 plays into their repertory. Seventy-seven were by women.",
         "That’s just under 3%.",
-        "She got hers in. It was one of the rarest achievements for a woman in that era."
+        "She got hers in. It was one of the rarest achievements for a woman in that era.",
+        "Olympe didn’t just fight to have her plays staged. She fought publicly, loudly, in pamphlets she printed at her own expense and pasted on the walls of Paris. She wrote about slavery, about women’s rights, about divorce, about the children of unwed mothers, about debt imprisonment. At a time when most women who wrote did so anonymously (Madame de Staël published her political texts on the Revolution without her name, Madame Roland circulated her thoughts in private letters), Olympe de Gouges put her name on everything."
       ],
       [
-        "Olympe didn’t just fight to have her plays staged. She fought publicly, loudly, in pamphlets she printed at her own expense and pasted on the walls of Paris. She wrote about slavery, about women’s rights, about divorce, about the children of unwed mothers, about debt imprisonment. At a time when most women who wrote did so anonymously (Madame de Staël published her political texts on the Revolution without her name, Madame Roland circulated her thoughts in private letters), Olympe de Gouges put her name on everything.",
         "On August 26, 1789, the National Assembly adopted the Déclaration des droits de l’homme et du citoyen, the Declaration of the Rights of Man and of the Citizen. The word used was hommes. Men.",
-        "Two years later, as it became painfully clear that the “universal” citizen of the Revolution was in fact going to be a French, propertied male over twenty-five, Olympe de Gouges sat down and rewrote the entire document, article by article."
-      ],
-      [
+        "Two years later, as it became painfully clear that the “universal” citizen of the Revolution was in fact going to be a French, propertied male over twenty-five, Olympe de Gouges sat down and rewrote the entire document, article by article.",
         "She published it on September 14, 1791, the exact same day as the ratification of the new constitution. She titled it Déclaration des droits de la femme et de la citoyenne and, with boldness, dedicated it to Queen Marie",
-        "Antoinette, a deeply ironic gesture, given the Queen’s unpopularity at the time. Olympe hoped the Queen might use her influence to support the rights of women.",
-        "First page of Declaration of the Rights of Woman and of the Female Citizen - Wikipedia The document opens with a sharp question: “Man, are you capable of being fair? A woman is asking: at least you will allow her that right. Tell me? What gave you the sovereign right to oppress my sex?”",
-        "She doesn’t explain why he’s wrong. She asks whether he’s capable of being fair. She lets him sit with that for a second. Then comes the demonstration."
+        "Antoinette, a deeply ironic gesture, given the Queen’s unpopularity at the time. Olympe hoped the Queen might use her influence to support the rights of women."
       ],
       [
+        "[[figure:1]]"
+      ],
+      [
+        "The document opens with a sharp question: “Man, are you capable of being fair? A woman is asking: at least you will allow her that right. Tell me? What gave you the sovereign right to oppress my sex?”",
+        "She doesn’t explain why he’s wrong. She asks whether he’s capable of being fair. She lets him sit with that for a second. Then comes the demonstration.",
         "Article X is the one that became famous, partly because of what happened to her two years later: “La femme a le droit de monter sur l’échafaud; elle doit avoir également celui de monter à la Tribune.”",
-        "The woman that has the right to mount the scaffold, must equally have the right to mount the podium.",
-        "She was pointing at the logical obscenity of a system that holds women legally responsible enough to execute, but not responsible enough to vote. If you can drag us to the guillotine for crimes against the state, then we are subjects of the state. And subjects of the state have political rights. You cannot have it both ways. You cannot kill us for breaking your laws while telling us we don’t have the agency to make them."
+        "The woman that has the right to mount the scaffold, must equally have the right to mount the podium."
       ],
       [
+        "She was pointing at the logical obscenity of a system that holds women legally responsible enough to execute, but not responsible enough to vote. If you can drag us to the guillotine for crimes against the state, then we are subjects of the state. And subjects of the state have political rights. You cannot have it both ways. You cannot kill us for breaking your laws while telling us we don’t have the agency to make them.",
         "Olympe’s article XI gave women the right to publicly name the fathers of their children. “Any Citizen can thus say freely: I am the mother of your child, without being forced by barbarous prejudice to hide the truth.” In 1791 she was demanding paternity accountability. France won’t have anything like it for another two centuries.",
-        "Article XVI: any constitution drafted without the participation of the majority of its citizens is null and void. No constitution without women is a real constitution.",
+        "Article XVI: any constitution drafted without the participation of the majority of its citizens is null and void. No constitution without women is a real constitution."
+      ],
+      [
         "In the postamble, she proposed replacing marriage with a civil contract between equals, property held in common, children acknowledged regardless of which “bed they come from,” dissolution available to either party. She was describing something close to modern civil union law. In 1791.",
         "Then she closed with a war cry:",
-        "“Woman, wake up; the alarm bell of reason rings across the universe; recognize your rights.”"
-      ],
-      [
+        "“Woman, wake up; the alarm bell of reason rings across the universe; recognize your rights.”",
         "She also insisted, against Robespierre and the Jacobins who were busy building their vision of universal republican virtue out of very masculine bodies, that the Revolution was not authored by nature or by God. It was authored by human beings. Fallible, self-interested, embodied human beings.",
-        "And as long as only some of those humans were allowed to co-author it, it was not what it claimed to be, and that is, Universal.",
-        "The men of the National Assembly mostly ignored her Declaration. Some laughed. To them, the idea of applying universal rights to women was not a radical extension of their own logic, it was a joke. The notion that the subject of the Declaration was not gender-neutral, that “l’homme” had always meant men specifically, was not something they were considering."
+        "And as long as only some of those humans were allowed to co-author it, it was not what it claimed to be, and that is, Universal."
       ],
       [
+        "The men of the National Assembly mostly ignored her Declaration. Some laughed. To them, the idea of applying universal rights to women was not a radical extension of their own logic, it was a joke. The notion that the subject of the Declaration was not gender-neutral, that “l’homme” had always meant men specifically, was not something they were considering.",
         "She was arrested on July 20, 1793, the same day I was born, almost two centuries later. The official charge was sedition: she had posted pamphlets around Paris calling for a referendum on whether France should be a monarchy, a federation, or a republic. But she had also been offering to defend Louis XVI at his trial, and publicly attacking Robespierre, and writing a play that dared to represent Marie-Antoinette as a complex human being rather than a pornographic monster.",
-        "At her trial, she was legally entitled to a defense lawyer. The judge denied her this right, claiming: “You have enough wits to defend yourself on your own.”",
-        "She performed her innocence brilliantly. A spectator at the trial recorded that as the charges were read, she joined her hands repeatedly and rolled her eyes toward the ceiling, then showed surprise, then looked straight at the audience and smiled. The audience, according to another spectator, would have acquitted her if the judges hadn’t cut her off.",
-        "The judges did not acquit her."
+        "At her trial, she was legally entitled to a defense lawyer. The judge denied her this right, claiming: “You have enough wits to defend yourself on your own.”"
       ],
       [
+        "She performed her innocence brilliantly. A spectator at the trial recorded that as the charges were read, she joined her hands repeatedly and rolled her eyes toward the ceiling, then showed surprise, then looked straight at the audience and smiled. The audience, according to another spectator, would have acquitted her if the judges hadn’t cut her off.",
+        "The judges did not acquit her.",
         "When she was in prison and the regime of Terror was fully underway, she wrote from her cell: “Republican laws promised us that no illegal authority would strike citizens; yet an arbitrary act has stripped me of my liberty in the middle of a free people... Is freedom of opinion and the press not consecrated as the most precious heritage of man? Do these rights present only illusory meaning?”",
         "She already knew the answer.",
-        "She was executed on the afternoon of November 3, 1793. On the scaffold, she addressed the crowd gathered to watch: “Children of the Fatherland, you will avenge my death.”",
-        "A few days later, the radical Jacobin politician Pierre-Gaspard Chaumette gave a speech warning republican women who dared to question their assigned roles. He used Olympe de Gouges as his warning: “Remember that virago, that woman-man, the impudent Olympe de Gouges, who abandoned all the cares of her household because she wanted to engage in politics and commit crimes. This forgetfulness of the virtues of her sex led her to the scaffold.”"
+        "She was executed on the afternoon of November 3, 1793. On the scaffold, she addressed the crowd gathered to watch: “Children of the Fatherland, you will avenge my death.”"
       ],
       [
+        "A few days later, the radical Jacobin politician Pierre-Gaspard Chaumette gave a speech warning republican women who dared to question their assigned roles. He used Olympe de Gouges as his warning: “Remember that virago, that woman-man, the impudent Olympe de Gouges, who abandoned all the cares of her household because she wanted to engage in politics and commit crimes. This forgetfulness of the virtues of her sex led her to the scaffold.”",
         "Forgetfulness of the virtues of her sex.",
-        "She had forgotten to be silent. She had forgotten to stay home. She had forgotten that public speech was a masculine prerogative and that a woman who claimed it was not a woman making a political argument but a woman making a category error.",
-        "Shortly after her execution, women’s clubs were dissolved. It became illegal for women to gather in groups of more than five. The Society of Revolutionary Republican Women, the organization that had been the most active female political club of the Revolution, was abolished. The women who had literally marched on Versailles, who had been in the Revolution, were erased from it."
+        "She had forgotten to be silent. She had forgotten to stay home. She had forgotten that public speech was a masculine prerogative and that a woman who claimed it was not a woman making a political argument but a woman making a category error."
       ],
       [
-        "The Déclaration des droits de la femme et de la citoyenne was written in 1791. For nearly two centuries it remained largely forgotten, a footnote, if mentioned at all, while French schoolchildren were taught about the “universal” rights of man. It was not until the 1970s and especially the 1980s, with the rise of modern feminism and the work of historians like Olivier Blanc, that the text was properly republished and Olympe de Gouges began to be recognized as the radical thinker she was.",
+        "Shortly after her execution, women’s clubs were dissolved. It became illegal for women to gather in groups of more than five. The Society of Revolutionary Republican Women, the organization that had been the most active female political club of the Revolution, was abolished. The women who had literally marched on Versailles, who had been in the Revolution, were erased from it.",
+        "The Déclaration des droits de la femme et de la citoyenne was written in 1791. For nearly two centuries it remained largely forgotten, a footnote, if mentioned at all, while French schoolchildren were taught about the “universal” rights of man. It was not until the 1970s and especially the 1980s, with the rise of modern feminism and the work of historians like Olivier Blanc, that the text was properly republished and Olympe de Gouges began to be recognized as the radical thinker she was."
+      ],
+      [
         "Marie Gouze, daughter of a butcher, a widow at seventeen, died as Olympe de Gouges, playwright, pamphleteer, feminist, guillotined by a republic that claimed to have invented the universal rights she spent her life demanding it honor. She was also a mother. She raised her only son, Pierre, alone and helped launch him into a military career. The Revolution would later put their bond under terrible strain.",
-        "She mounted the scaffold. She was right all along: she had the right to mount the podium too."
-      ],
-      [
+        "She mounted the scaffold. She was right all along: she had the right to mount the podium too.",
         "Her body was thrown into a mass grave at the Madeleine Cemetery. Like so many others executed during the Terror, her remains were later lost, possibly transferred to the Paris Catacombs among thousands of unidentified bones.",
         "There is no grave marker or stone for visitors to read.",
         "Women like Olympe are what Dead Women Society digs for."
       ]
     ],
-    "sources": "Janie Vanpée, “Performing Justice: The Trials of Olympe de Gouges” (Theatre Journal, 1999); Joan Wallach Scott, “French Feminists and the Rights of ‘Man’: Olympe de Gouges’s Declarations” (History Workshop, 1989); Joshua Rivas, “The Radical Novelty of Olympe de Gouges” (Nottingham French Studies, 2014); Olympe de Gouges, Écrits politiques, ed. Olivier Blanc (Côté-femmes, 1993)."
+    "sources": "Janie Vanpée, “Performing Justice: The Trials of Olympe de Gouges” (Theatre Journal, 1999); Joan Wallach Scott, “French Feminists and the Rights of ‘Man’: Olympe de Gouges’s Declarations” (History Workshop, 1989); Joshua Rivas, “The Radical Novelty of Olympe de Gouges” (Nottingham French Studies, 2014); Olympe de Gouges, Écrits politiques, ed. Olivier Blanc (Côté-femmes, 1993).",
+    "figures": [
+      {
+        "src": "/archive/olympe-de-gouges-X38.jpg",
+        "caption": "Portrait of Olympe de Gouges - Wikimedia"
+      },
+      {
+        "src": "/archive/olympe-de-gouges-X42.jpg",
+        "caption": "First page of Declaration of the Rights of Woman and of the Female Citizen - Wikipedia"
+      }
+    ]
   },
   {
     "slug": "maria-telkes",
@@ -220,9 +259,10 @@
       ],
       [
         "In 1932, syndicated columnist Arthur Brisbane, whom newspaper editors of the era described as “the most highly paid and most widely read editorial writer in the world,” visited the clinic to write about its work. Yet rather than focusing on the groundbreaking research being conducted there, Brisbane devoted much of his column to remarks about Mária’s appearance, personality, and his unsuccessful attempts to charm her. Some things never change.",
-        "While working at the Cleveland Clinic, Mária continued pursuing solar energy research in her spare time, developing a thermopile capable of converting sunlight into electricity. The invention attracted national attention and established her as a rising figure in the field.",
-        "Solar-energy pioneer Mária Telkes with experimental energy-conversion equipment. Source: National Renewable Energy Laboratory (NREL), U.S.",
-        "Department of Energy."
+        "While working at the Cleveland Clinic, Mária continued pursuing solar energy research in her spare time, developing a thermopile capable of converting sunlight into electricity. The invention attracted national attention and established her as a rising figure in the field."
+      ],
+      [
+        "[[figure:0]]"
       ],
       [
         "After becoming an American citizen in 1937, she joined Westinghouse as a research engineer studying the conversion of heat into electricity. When she learned about MIT’s new Solar Energy Conversion Project, she immediately sought a position. Her initial application was unsuccessful, but Mária refused to be overlooked. She traveled to Massachusetts and personally demonstrated her thermopile to the project’s all-male selection committee, arguing that it was far more efficient than existing solar technologies. Her persistence paid off: in 1939, MIT invited her to join the program, giving her a place among the nation’s leading solar energy researchers.",
@@ -232,31 +272,40 @@
         "Any debate over solar energy’s future was soon overshadowed by global events. After the United States entered World War II, MIT’s research priorities shifted toward the war effort. Mária joined the Office of Scientific Research and Development as a civilian advisor and was tasked with solving a life-or- death problem. Allied pilots and sailors stranded at sea often survived crashes or sinkings, only to die of dehydration before rescue could arrive.",
         "Surrounded by seawater they could not drink, they needed a portable source of fresh water.",
         "Mária believed solar energy could provide one. Inspired by a jellyfish she spotted while sailing, she designed a portable solar still, a lightweight,",
-        "inflatable device that used sunlight to convert seawater into fresh drinking water. It required no fuel, electricity, or moving parts, making it ideal for emergency survival kits.",
-        "U.S. service members demonstrate Mária Telkes’ solar still. Source: Mária Telkes Papers, Design and the Arts Special Collections, Arizona State University Library."
+        "inflatable device that used sunlight to convert seawater into fresh drinking water. It required no fuel, electricity, or moving parts, making it ideal for emergency survival kits."
       ],
       [
-        "The U.S. government was impressed enough to order 100,000 units. Yet, once again, Mária faced resistance. Production became bogged down by delays at MIT, where project director Hoyt Hottel repeatedly revised specifications and changed manufacturers. By the end of the war, none of the ordered stills had been delivered. Although the invention arrived too late to aid the wartime effort, it was eventually incorporated into military emergency kits and remained in use for years afterward. An unknowable number of pilots and sailors likely survived because of Mária’s innovation.",
-        "Mária Telkes’ solar still, a lightweight device folded into a compact package that required no fuel or electricity. Source: Mária Telkes Papers, Arizona State",
-        "University Library.",
-        "After the war, Mária turned her attention to what many considered solar energy’s greatest unsolved challenge: storage. Capturing sunlight was one thing. Storing its heat for use at night or during cloudy weather was another."
+        "[[figure:1]]"
       ],
       [
+        "The U.S. government was impressed enough to order 100,000 units. Yet, once again, Mária faced resistance. Production became bogged down by delays at MIT, where project director Hoyt Hottel repeatedly revised specifications and changed manufacturers. By the end of the war, none of the ordered stills had been delivered. Although the invention arrived too late to aid the wartime effort, it was eventually incorporated into military emergency kits and remained in use for years afterward. An unknowable number of pilots and sailors likely survived because of Mária’s innovation."
+      ],
+      [
+        "[[figure:2]]"
+      ],
+      [
+        "After the war, Mária turned her attention to what many considered solar energy’s greatest unsolved challenge: storage. Capturing sunlight was one thing. Storing its heat for use at night or during cloudy weather was another.",
         "She proposed an experimental solar house that would use Glauber’s salt, a heat-storing compound, to absorb solar energy during the day and release it after sunset. Despite skepticism from her supervisor, Hoyt Hottel, MIT approved the project and built the house in 1946.",
         "The experiment failed. The salt corroded its containers, causing leaks that rendered the system unusable. Mária blamed poor operation of the test house. Her colleagues blamed the design. The disagreement escalated, and Hottel removed her from the solar project.",
         "Most people would have moved on.",
         "Mária doubled down.",
-        "In 1948, working with architect Eleanor Raymond and philanthropist Amelia Peabody, she helped build the Dover Sun House in Massachusetts, the first house heated primarily through stored solar energy. Using an improved version of her thermal-storage concept, the house demonstrated that solar heating could work on a practical scale.",
+        "In 1948, working with architect Eleanor Raymond and philanthropist Amelia Peabody, she helped build the Dover Sun House in Massachusetts, the first house heated primarily through stored solar energy. Using an improved version of her thermal-storage concept, the house demonstrated that solar heating could work on a practical scale."
+      ],
+      [
         "“Sunlight will be used as a source of energy sooner or later anyway. Why wait?,” she wrote in 1951."
       ],
       [
-        "Mária Telkes at the Dover Sun House in Massachusetts, completed in 1948. Developed with architect Eleanor Raymond and funded by philanthropist Amelia Peabody, the experimental home used solar energy and thermal storage to provide heat, making it one of the world’s most famous early solar-powered houses. Source: Mária Telkes Papers, Design and the Arts Special Collections, Arizona State University Library.",
-        "Newspapers celebrated it. Visitors traveled from across the country to see it.",
-        "For a brief moment, it seemed possible that the United States might embrace solar energy decades before the energy crises of the 1970s.",
-        "The Dover Sun House - Source: Mária Telkes Papers, Design and the Arts Special Collections, Arizona State University Library.",
-        "It didn’t."
+        "[[figure:3]]"
       ],
       [
+        "Newspapers celebrated it. Visitors traveled from across the country to see it.",
+        "For a brief moment, it seemed possible that the United States might embrace solar energy decades before the energy crises of the 1970s."
+      ],
+      [
+        "[[figure:4]]"
+      ],
+      [
+        "It didn’t.",
         "Many researchers, including Hottel, remained unconvinced that solar energy could compete economically with cheap oil and gas. Mária disagreed. She saw solar power not simply as a technical challenge, but as a way to reduce dependence on finite fuels and expand access to energy. Once again, her vision put her at odds with the scientific establishment. Although the Dover Sun House became an international sensation, Mária found herself increasingly marginalized at MIT and eventually pushed out of the project she had helped pioneer.",
         "The story, however, was not as triumphant as the newspaper headlines suggested.",
         "Within a few years, the Dover Sun House began to struggle. Components failed. The heating system proved expensive to operate. Eventually, a conventional oil furnace had to be installed."
@@ -276,25 +325,53 @@
         "Decades before terms like “energy poverty” entered the mainstream, Mária understood that billions of people lived beneath abundant sunlight while lacking reliable access to fuel. In many communities, cooking required hours spent gathering wood, accelerating deforestation and exposing families to dangerous smoke from indoor fires."
       ],
       [
-        "Mária Telkes demonstrates her solar oven, a low-cost cooker powered entirely by sunlight. Designed for regions with limited access to conventional fuels, the oven reflected her belief that solar energy could improve everyday life for people around the world. Source: Mária Telkes Papers, Design and the Arts Special Collections, Arizona State University Library.",
+        "[[figure:5]]"
+      ],
+      [
         "After her death, scientists working in Central America and Africa found that Mária’s insight had been remarkably prescient. Programs teaching families to build and use solar ovens often relied on versions of her designs because they were inexpensive, durable, and easy to adapt to local needs.",
         "The benefits extended far beyond cooking. Families spent less money on fuel. Women and children spent less time gathering firewood. Homes had cleaner air. Communities used the time saved to pursue education, start businesses, and organize local projects.",
-        "This was the future Mária had imagined decades earlier: not solar energy as a technological curiosity, but as a practical tool that could improve everyday life for people with the fewest resources and the greatest need."
+        "This was the future Mária had imagined decades earlier: not solar energy as a technological curiosity, but as a practical tool that could improve everyday life for people with the fewest resources and the greatest need.",
+        "She died in Hungary in 1995, ten days before her ninety-fifth birthday, during her first visit to her homeland in more than seventy years. Despite decades of pioneering work and international recognition, Mária's death in Hungary in 1995 received so little attention in the United States that newspapers did not report it until the following year."
       ],
       [
-        "She died in Hungary in 1995, ten days before her ninety-fifth birthday, during her first visit to her homeland in more than seventy years. Despite decades of pioneering work and international recognition, Mária's death in Hungary in 1995 received so little attention in the United States that newspapers did not report it until the following year.",
         "The phrase “ahead of her time” is one worth examining. It usually means a person was right while everyone around her was wrong, and that the wrongness lasted long enough to become a civilizational embarrassment.",
         "Mária Telkes demonstrated practical solar thermal technology in an American house in 1948. She built solar-powered desalination systems during World War II. She designed solar ovens that are still improving lives decades after her death. Many of the ideas she spent her career defending are now standard components of the global transition to renewable energy.",
-        "Yet throughout that career she was forced to prove herself repeatedly."
+        "Yet throughout that career she was forced to prove herself repeatedly.",
+        "Newspapers wrote about her appearance instead of her work. Male colleagues questioned her judgment, delayed her projects, removed her from leadership roles, and eventually pushed her out of institutions she had helped make relevant. Traits celebrated as brilliance and determination in male scientists were often described as stubbornness and insubordination in her."
       ],
       [
-        "Newspapers wrote about her appearance instead of her work. Male colleagues questioned her judgment, delayed her projects, removed her from leadership roles, and eventually pushed her out of institutions she had helped make relevant. Traits celebrated as brilliance and determination in male scientists were often described as stubbornness and insubordination in her.",
         "It is impossible to know what Mária Telkes might have accomplished had she received the same support, funding, trust, and institutional backing routinely afforded to many of her male contemporaries.",
         "What is easier to see is what she accomplished without them.",
         "The sun, for its part, continued showing up every single morning, exactly as it always had: indifferent to egos, academic politics, and humanity’s remarkable talent for ignoring good ideas when they arrive in the wrong package."
       ]
     ],
-    "sources": ""
+    "sources": "",
+    "figures": [
+      {
+        "src": "/archive/maria-telkes-X54.jpg",
+        "caption": "Solar-energy pioneer Mária Telkes with experimental energy-conversion equipment. Source: National Renewable Energy Laboratory (NREL), U.S. Department of Energy."
+      },
+      {
+        "src": "/archive/maria-telkes-X59.jpg",
+        "caption": "U.S. service members demonstrate Mária Telkes’ solar still. Source: Mária Telkes Papers, Design and the Arts Special Collections, Arizona State University Library."
+      },
+      {
+        "src": "/archive/maria-telkes-X60.png",
+        "caption": "Mária Telkes’ solar still, a lightweight device folded into a compact package that required no fuel or electricity. Source: Mária Telkes Papers, Arizona State University Library."
+      },
+      {
+        "src": "/archive/maria-telkes-X69.jpg",
+        "caption": "Mária Telkes at the Dover Sun House in Massachusetts, completed in 1948. Developed with architect Eleanor Raymond and funded by philanthropist Amelia Peabody, the experimental home used solar energy and thermal storage to provide heat, making it one of the world’s most famous early solar-powered houses. Source: Mária Telkes Papers, Design and the Arts Special Collections, Arizona State University Library."
+      },
+      {
+        "src": "/archive/maria-telkes-X70.jpg",
+        "caption": "The Dover Sun House - Source: Mária Telkes Papers, Design and the Arts Special Collections, Arizona State University Library."
+      },
+      {
+        "src": "/archive/maria-telkes-X78.jpg",
+        "caption": "Mária Telkes demonstrates her solar oven, a low-cost cooker powered entirely by sunlight. Designed for regions with limited access to conventional fuels, the oven reflected her belief that solar energy could improve everyday life for people around the world. Source: Mária Telkes Papers, Design and the Arts Special Collections, Arizona State University Library."
+      }
+    ]
   },
   {
     "slug": "sisterage",
@@ -330,11 +407,17 @@
       [
         "In New England, between roughly 1870 and 1920, educated women started pairing off. They called it nothing, or they called it friendship, and later they called it a “Boston marriage”: two women sharing a home, finances, social life, sometimes a bed, for decades. Some were romantic. Some weren’t. The point was the structure: mutual support, shared labor, no male head of household, equality.",
         "Women.",
-        "The most recent version was called Boston Marriages.",
-        "Sarah Orne Jewett - W ikipedia image Annie Adams Fields (1834 ‒ 1915), 1890, painting by John Singer Sargent / Credit: Boston Athenaeum Sarah Orne Jewett lived with Annie Fields for years, around six months of each year living and travelling together, after Annie’s husband died.",
-        "Mary Woolley, president of Mount Holyoke College, lived with Jeannette Marks for almost fifty years. These relationships were not secrets or"
+        "The most recent version was called Boston Marriages."
       ],
       [
+        "[[figure:0]]"
+      ],
+      [
+        "[[figure:1]]"
+      ],
+      [
+        "Sarah Orne Jewett lived with Annie Fields for years, around six months of each year living and travelling together, after Annie’s husband died.",
+        "Mary Woolley, president of Mount Holyoke College, lived with Jeannette Marks for almost fifty years. These relationships were not secrets or",
         "scandalous. They were visible, and that was possible because they were also respectable companionships. These women had money, education, social standing. The system tolerated them because they posed no threat to the larger architecture. A few rich white ladies living together in Cambridge? Fine.",
         "But this is left out of the W ikipedia summary: Boston marriages were not a lesbian phenomenon, and they were not just an upper-class quirk. They were a structural response to a structural problem. In the late 19th century, women’s colleges were producing thousands of educated women with no intention of marrying. Because marriage, as legally constructed, meant coverture: a woman’s property became her husband’s, her legal existence suspended. If you had a degree, a career, a bank account, marriage was not a partnership. It was dissolution of the self."
       ],
@@ -408,6 +491,16 @@
         "This is what we dig. Feel free to reach out if you want to contribute your own essay or become a regular."
       ]
     ],
-    "sources": ""
+    "sources": "",
+    "figures": [
+      {
+        "src": "/archive/sisterage-X34.png",
+        "caption": "Sarah Orne Jewett - W ikipedia image"
+      },
+      {
+        "src": "/archive/sisterage-X35.png",
+        "caption": "Annie Adams Fields (1834 ‒ 1915), 1890, painting by John Singer Sargent / Credit: Boston Athenaeum"
+      }
+    ]
   }
 ]
